@@ -1,1 +1,12 @@
-# Raspbian_alias
+## Raspbian_alias
+
+
+#memory
+
+
+#docker
+
+
+#ngrok
+
+
